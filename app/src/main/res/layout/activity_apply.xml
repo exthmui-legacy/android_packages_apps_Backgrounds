@@ -32,8 +32,8 @@
 
     <ImageView
         android:id="@+id/apply_close"
-        android:layout_width="32dp"
-        android:layout_height="32dp"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
         android:layout_gravity="top|start"
         android:layout_margin="16dp"
         android:background="@drawable/bg_apply_close"

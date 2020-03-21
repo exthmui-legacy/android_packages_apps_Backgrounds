@@ -16,19 +16,29 @@
 <resources>
 
     <array name="wallpaper_built_in_drawables">
-        <item>@drawable/rumia</item>
-        <item>@drawable/reimu_yellow</item>
-        <item>@drawable/kogasa</item>
+        <item>@drawable/ex1</item>
+        <item>@drawable/ex2</item>
+        <item>@drawable/ex3</item>
+        <item>@drawable/ex4</item>
+        <item>@drawable/kira</item>
         <item>@drawable/the_2020</item>
+        <item>@drawable/reimu_yellow</item>
+        <item>@drawable/rumia</item>
+        <item>@drawable/kogasa</item>
         <item>@drawable/sakuya</item>
         <item>@drawable/shion</item>
         <item>@drawable/youmu</item>
     </array>
 
     <string-array name="wallpaper_built_in_names">
-        <item>@string/wallpaper_built_in_rumia</item>
-        <item>@string/wallpaper_built_in_reimu_yellow</item>
+        <item>@string/wallpaper_built_in_ex1</item>
+        <item>@string/wallpaper_built_in_ex2</item>
+        <item>@string/wallpaper_built_in_ex3</item>
+        <item>@string/wallpaper_built_in_ex4</item>
+        <item>@string/wallpaper_built_in_kira</item>
         <item>@string/wallpaper_built_in_2020</item>
+        <item>@string/wallpaper_built_in_reimu</item>
+        <item>@string/wallpaper_built_in_rumia</item>
         <item>@string/wallpaper_built_in_kogasa</item>
         <item>@string/wallpaper_built_in_sakuya</item>
         <item>@string/wallpaper_built_in_shion</item>
