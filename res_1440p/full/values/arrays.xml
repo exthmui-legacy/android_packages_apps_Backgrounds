@@ -13,15 +13,17 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <array name="partner_wallpapers" translatable="false">
-        <item>abstract_ink</item>
-        <item>abstract_orderofchaos</item>
-        <item>abstract_spacestory</item>
-        <item>nature_ice</item>
-        <item>nature_nebula</item>
-        <item>nature_night</item>
-        <item>nature_sea</item>
-        <item>space_riseup</item>
-        <item>urban_dayroad</item>
-        <item>urban_nightroad</item>
+        <item>ex1</item>
+        <item>ex2</item>
+        <item>ex3</item>
+        <item>ex4</item>
+        <item>kira</item>
+        <item>the_2020</item>
+        <item>kogasa</item>
+        <item>reimu_yellow</item>
+        <item>rumia</item>
+        <item>sakuya</item>
+        <item>shion</item>
+        <item>youmu</item>
     </array>
 </resources>
